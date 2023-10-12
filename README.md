@@ -15,4 +15,4 @@ php artisan key:generate
 
 npm install or yarn install
 
-npm run dev or yarn dev
+npm run dev 
